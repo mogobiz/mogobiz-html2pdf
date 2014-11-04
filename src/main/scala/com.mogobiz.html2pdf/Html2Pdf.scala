@@ -1,4 +1,4 @@
-package com.mogobiz.pay.html2pdf
+package com.mogobiz.html2pdf
 
 import java.io._
 import java.nio.charset.Charset
