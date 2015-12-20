@@ -7,7 +7,7 @@ package com.mogobiz.html2pdf
 import java.io._
 import java.nio.charset.Charset
 
-import com.itextpdf.text.{Rectangle, PageSize, Document}
+import com.itextpdf.text.{ Rectangle, PageSize, Document }
 import com.itextpdf.text.pdf.PdfWriter
 import com.itextpdf.tool.xml.XMLWorkerHelper
 
